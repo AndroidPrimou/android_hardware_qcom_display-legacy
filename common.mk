@@ -5,6 +5,7 @@ common_includes += hardware/qcom/display-legacy/liboverlay
 common_includes += hardware/qcom/display-legacy/libcopybit
 common_includes += hardware/qcom/display-legacy/libqdutils
 common_includes += hardware/qcom/display-legacy/libhwcomposer
+common_includes += hardware/qcom/display-legacy/libqservice
 
 common_header_export_path := qcom/display
 
